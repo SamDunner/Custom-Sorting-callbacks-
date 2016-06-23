@@ -1,5 +1,11 @@
 /* exercise 1:
-Write a function that outputs this: [1, 2, 5, 9, 10]
+Write a function that outputs this: [1, 2, 5, 9, 10] */
+
+// var nums = [5, 9, 10, 1, 2];
+// nums.sort(function(a,b){
+//   return a - b;
+// });
+// console.log(nums);
 
 
 
